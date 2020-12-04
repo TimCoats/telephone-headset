@@ -1,1 +1,1 @@
-# telephone-headset
+# telephone-headset This respository contains information about a headset device which combines a throat microphoen and bone conduction headset to enable a clinicians wearing an elastomeric respirator mask to talk clearly on a telephone.
